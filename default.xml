@@ -27,7 +27,7 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="android_device_samsung_crespo" remote="icy" revision="ics" />
   <project path="device/samsung/crespo4g" name="android_device_samsung_crespo4g" remote="icy" revision="ics" />
-  <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="icy" revision="ics" />
+  <project path="device/samsung/maguro" name="android_device_samsung_maguro-1" remote="icy" revision="ics" />
   <project path="device/samsung/toro" name="android_device_samsung_toro" remote="icy" revision="ics" />
   <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="icy" revision="ics" />
   <project path="device/ti/panda" name="platform_device_ti_panda" remote="icy" revision="ics" />
@@ -228,7 +228,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="vendor/moto" name="android_vendor_moto" remote="icy" revision="ics" />
-  <project path="vendor/icy" name="android_vendor_icy" remote="icy" revision="ics" />
+  <project path="vendor/icy" name="android_vendor_dg" remote="icy" revision="ics" />
   <project path="vendor/samsung" name="android_vendor_samsung" remote="icy" revision="ics" />
 
 </manifest>
